@@ -35,6 +35,7 @@ On & njegova Urška
   <div style="position: relative;padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xcnpPUub6Ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; max-width: 560px; max-height: 315px;"></iframe>
   </div>
+</div>
 Saban Saulic - Meni je s tobom sreca obecana
 {:.figure}
 
