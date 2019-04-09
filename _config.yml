@@ -145,17 +145,17 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-127734928-1 
+google_analytics:      UA-138036165-1
 
-google_tag_manager:    GTM-5BM3DDT
+google_tag_manager:    GTM-KLGLKQG
 
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                https-www-milovantomasevic-com
+disqus:                ljubav-1
 
 # Setting a tinyletter username will enable the newsletter subscription box.
-tinyletter:            milovantomasevic
+tinyletter:            njegovaurska
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
