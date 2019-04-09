@@ -4,7 +4,7 @@ title: Public relations (PR)
 description: >
   Public relations (PR) public relations (PR) public relations (PR) public relations (PR) public relations (PR)
 image: /assets/img/blog/pr1.jpg
-
+comments: true
 ---
 
 
