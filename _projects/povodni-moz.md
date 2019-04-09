@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Povodni mož'
-date: 5 May 1830
+date: 5 May 1990
 image: /assets/img/projects/p1.jpg
 screenshot: /assets/img/projects/p1.jpg
 links:
