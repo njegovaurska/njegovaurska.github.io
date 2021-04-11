@@ -198,7 +198,11 @@ languages:
     fluency: "Native speaker"
   - language: "English"
     fluency: "Native speaker"
-  - language: "ExYU"
+  - language: "Serbian"
+    fluency: "Native speaker"
+  - language: "Croatian"
+    fluency: "Native speaker"
+  - language: "Bosnian"
     fluency: "Native speaker"
 interests:
   - name: "Areas"
