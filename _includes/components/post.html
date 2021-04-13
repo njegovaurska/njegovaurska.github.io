@@ -27,6 +27,14 @@
         {{ ' ' }}
         {%- assign tag_start          = site.data.strings.tag_start          | default:"on " -%}
         {%- assign tag_separator      = site.data.strings.tag_separator      | default:", "  -%}
+        <span class="read-time" title="Estimated read time"> ∙
+          {% assign words = post.content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:180 }} mins read
+          {% endif %}
+        </span>
         {%- include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator -%}
       {% endcapture %}
       <span class="ellipsis mr1">
@@ -41,6 +49,7 @@
             {% assign last_modified_at_format = site.data.strings.date_formats.last_modified_at | default:"%Y-%m-%d" %}
             <span class="ellipsis" data-tippy-content="{{ label }}{{ site.data.strings.colon }} {{ post.last_modified_at | date:last_modified_at_format }}">
               <span class="sr-only">{{ label }}{{ site.data.strings.colon }}</span>
+              <a href="https://github.com/njegovaurska/njegovaurska.github.io/commits/master/{{ post.path }}" target="_blank">Updated</a>:
               <span class="{{ site.data.strings.last_modified_icon | default:'icon-history' }}"></span>
               <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date:last_modified_at_format }}</time>
             </span>
@@ -64,6 +73,7 @@
 
   {% if no_excerpt %}
     {{ post.content }}
+    {% include custom-buttons.html %}
   {% else %}
     {{ post.excerpt }}
 
