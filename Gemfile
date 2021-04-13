@@ -8,31 +8,14 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
-#gem "jekyll-theme-hydejack-pro"
+gem "jekyll", "~> 3.8"
 
-gem "jekyll-plantuml"
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-default-layout"
-  gem "jekyll-feed"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-paginate"
-  gem "jekyll-readme-index"
-  gem "jekyll-redirect-from"
-  gem "jekyll-relative-links"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
-  gem "jekyll-titles-from-headings"
+  gem "github-pages"
+  gem "jekyll-include-cache"
+  gem "jekyll-compose"
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-
-gem "jekyll-theme-hydejack-pro", git: 'git@hydejack:qwtel/hydejack-8-pro.git'
+gem 'wdm' if Gem.win_platform?
+gem "tzinfo-data" if Gem.win_platform?
+gem "webrick", "~> 1.7"

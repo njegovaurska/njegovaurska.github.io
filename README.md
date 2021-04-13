@@ -1,3 +1,14 @@
-# moja Urška
+# www
+my personal website
 
-[njegovaurska](https://njegovaurska.github.io){:target="_blank"} 
+## start server
+
+```sh
+bundle exec jekyll s
+```
+
+## build server
+
+```sh
+bundle exec jekyll b
+```

@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Urška Tomašević"
-  label: "Digital PR & Social Media Expert"
+  label: "Digital marketing, PR & Social Media manager"
   picture: "/assets/icons/njegovaurska.png"
   email: "njegovaurska@gmail.com"
   phone: "(+386) 40/***010"
@@ -20,7 +20,7 @@ basics:
   location:
     address: ""
     postalCode: ""
-    city: ""
+    city: "Ljubljana"
     countryCode: "SI"
     region: ""
   profiles:
@@ -52,7 +52,7 @@ work:
     highlights:
       - Content manager of Facebook Deichmann Slovenia
       - Manage communication and coordinate with PR agencies for Facebook Deichmann Croatia, Deichmann Serbia, Deichmann BIH
-      - Content manager of Instagram Deichmann Adria ( United countries SI, HR, RS, BA)
+      - Content manager of Instagram Deichmann Adria (United countries SI, HR, RS, BA)
       - Manage, develop and coordinate Fashion blog for Deichmann SI, HR, RS, BA
       - Manage, develop and coordinate influencers for Deichmann Instagram profile @deichmann_adria
       - Content manager of Deichmann Newsletter for Serbia and BIH
@@ -87,61 +87,85 @@ work:
       - Manage communication and coordination with stores in Slovenia, Croatia, Serbia, BIH/offline activity
 
 education:
-  - institution: "Faculty of Marketing"
-    area: "Information Technology"
-    studyType: "MSc"
-    startDate: "2010-10-01"
-    endDate: "2011-10-28"
-    gpa: "10.00"
-    courses:
-      - "Computer programming"
-  - institution: "Faculty of Marketing"
-    area: "Computer Science"
-    studyType: "BSc"
-    startDate: "2006-10-01"
-    endDate: "2010-09-27"
-    gpa: "9.5"
-    courses:
-      - "Computer programming"
+  - institution: "Faculty of Economics, University of Ljubljana"
+    area: "International Business"
+    studyType: "Master study"
+    startDate: "2016-10-01"
+    endDate: "2019"
+  - institution: "Faculty of Economics, University of Ljubljana"
+    area: "Accounting and auditing"
+    studyType: "Bachelor of Economics"
+    startDate: "2009-10-01"
+    endDate: "2014"
+  - institution: "ISCTE Business School, Lisbon"
+    area: "Marketing Management"
+    studyType: "Bachelor of Economics"
+    startDate: "2012"
+    endDate: "2013"
+    
 
 awards:
-  - title: "PRACE Autumn School 2018"
-    date: "2018-09-24"
-    awarder: "CERTIFICATE OF ATTENDENCE"
-    summary: "HPC for Engineering and Chemistry"
+  - title: "Adobe Photoshop CC 2020 - Become a Super User - 10 projects"
+    date: "July 2020"
+    awarder: "Learn Tech Plus & Udemy"
+    summary: "Basic Phptpshop to Advance Super User"
 
-  - title: "Training & Research for Academic Newcomers"
-    date: "2017-10-01"
-    awarder: "CERTIFICATE OF ATTENDENCE"
-    summary: "Research Methodology, Preparing Funding Applications & Project Management and Communication & Presentation Skills"
+  - title: "Complete Online Marketing & Advertising Course"
+    date: "July 2020"
+    awarder: "Prof. Paul Cline, Ed.D, Sandor Kiss & Udemy"
+    summary: "The right way to do marketing, covers all major online marketing techniques"
 
-  - title: "Certificate of Training in Responsible Research and Innovation"
-    date: "2016-12-01"
-    awarder: "CERTIFICATE OF ATTENDENCE"
-    summary: "RRI Tools"
+  - title: "Content Marketing Strategy & Techniques: Beginner to Expert"
+    date: "July 2020"
+    awarder: "William McGuffey Academy & Udemy"
+    summary: "Content strategies and techniques"
 
-  - title: "Training & Research for Academic Newcomers"
-    date: "2016-11-01"
-    awarder: "CERTIFICATE OF ATTENDENCE"
-    summary: "TRAIN program"
+  - title: "Digital Marketing Certification: Master Digital Marketing"
+    date: "July 2020"
+    awarder: "Alexandros Fatsis & Udemy"
+    summary: "Digital marketing, Google Ads, SEO, Blogging, Social Media, Search Engine Optimization, Adwords, Content marketing"
 
-  - title: "SAP Introduction Training"
-    date: "2012-06-01"
-    awarder: "CERTIFICATE OF ATTENDENCE"
-    summary: "Heino Schrader University Alliances EMEA SAP AG"
+  - title: "Digital Marketing Masterclass - 23 Courses in 1"
+    date: "July 2020"
+    awarder: "Phil Ebiner, Diego Davila & Udemy"
+    summary: "Branding, Websites, Email marketing, Copywriting, SEO, Facebook Ads, Video marketing, Youtube, Instagram, Linkedin"
+
+  - title: "E-Z Photoshop Techniques for Social Media Marketing"
+    date: "July 2020"
+    awarder: "Jeff Zahorsky & Udemy"
+    summary: "Basic tools and layout, photoshop patterns"
+
+  - title: "Facebook Marketing and Facebook Ads Masterclass for 2020"
+    date: "July 2020"
+    awarder: "Logus Online & Udemy"
+    summary: "Facebook, Facebook Ads"
+
+  - title: "Influencer Content Marketing Certification"
+    date: "July 2020"
+    awarder: "Srinidhi Ranganathan & Udemy"
+    summary: "Influencers, target group, use of right content and influencers"
+
+  - title: "Master Marketing Digital 2020"
+    date: "July 2020"
+    awarder: "Fabio Soares & Udemy"
+    summary: "Digital marketing, digital communications..."
+
+  - title: "Projects Cost Management, Estimating, Budgeting and Control"
+    date: "July 2020"
+    awarder: "Saad Almeri & Udemy"
+    summary: "How to estimate costs for a project, how to determine project budget, how to control project costs..."
+
+  - title: "TikTok Marketing 2020: Grow Your Account & Master TikTok Ads"
+    date: "July 2020"
+    awarder: "Darius Mora, Evan Kimbrell & Udemy"
+    summary: "How to grow your TikTok account, how to design and scale TikTok ad campaigns, TikTok analytics..."
 
 publications:
-  - name: "ADAPTIVE FUZZY MODEL FOR DETERMINATION OF QUALITY ASSESSMENT SERVICES IN SUPPLY CHAIN"
-    publisher: "Technical Gazette"
-    releaseDate: "2018-12-01"
-    website: "https://www.researchgate.net/publication/322266423_Adaptive_fuzzy_model_for_determination_of_quality_assessment_services_in_supply_chain"
-    summary: "The problem that is being addressed in this paper is to improve the services provided by company and achieve better communication among companies in the supply chain."
-
-  - name: "Contribution to the User Requests Management Based on ITIL Implementation"
-    publisher: "International Scientific and Expert Conference (TEAM)"
-    releaseDate: "2012-10-01"
-    website: "http://team2012.sfsb.hr/documents/TEAM_2012_Proceedings.pdf"
-    summary: "Implementing the best practice in IT services organization could be done with support of the of the third party solutions (i.e. CA tools)."
+  - name: "#ad (Ne)transparentnost vplivnostnega marketinga"
+    publisher: "Digital Marketing Institute"
+    releaseDate: "07.11.2017"
+    website: "https://digitalni-marketing.gea-college.si/ad-netransparentnost-vplivnostnega-marketinga/"
+    summary: "Should influencers mark their ads with #ad and be transparent or shall it all stay as their content."
 
 skills:
   - name: "Development"
@@ -151,7 +175,7 @@ skills:
       - "Email Marketing"
       - "Online Advertising"
       - "Digital Marketing"
-      - "Social Marketing"
+      - "Social Media Marketing"
       - "Digital Strategy"
       - "Public Relations"
       - "Digital Media"
@@ -185,7 +209,7 @@ skills:
       - "Online Branding"
       - "Local Marketing"
       - "Word Of Mouth Marketing"
-      - "Viral Marketing"
+      - "Content Marketing"
       - "Social Networking"
       - "Communications Strategy"
       - "Brand Communication"
@@ -197,18 +221,24 @@ languages:
   - language: "Slovenian"
     fluency: "Native speaker"
   - language: "English"
-    fluency: "Native speaker"
+    fluency: "Professional working proficiency"
   - language: "Serbian"
-    fluency: "Native speaker"
+    fluency: "Professional working proficiency"
   - language: "Croatian"
-    fluency: "Native speaker"
+    fluency: "Professional working proficiency"
   - language: "Bosnian"
-    fluency: "Native speaker"
+    fluency: "Professional working proficiency"
+  - language: "Portuguese"
+    fluency: "Elementary proficiency"
+  - language: "Italian"
+    fluency: "Elementary proficiency"
+
 interests:
   - name: "Areas"
     keywords:
       - "Social Media and Public Relations"
-      - "Digital PR & Social Media"
+      - "Digital Marketing, PR & Social Media"
+      - "Content marketing"
 references:
   - name: "Milovan Tomašević, PhD"
     reference: >

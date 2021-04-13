@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impress
-description: Milovan Tomašević, milovantomasevic.com, Slovenija
+description: Urška Tomašević, Social Media and Public Relations, Digital PR & Social Media Expert
 hide_description: true
 ---
 
