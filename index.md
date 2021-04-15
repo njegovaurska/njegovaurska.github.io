@@ -4,7 +4,7 @@ cover: true
 title: Everything you can imagine is real.
 image: /assets/img/MilovanTomasevic-8.jpeg
 description: >
-  My name is Urška and currently I work in Deichmann as a PR and social media manager. We are located in Ljubljana, Slovenia, however I cover also Croatian, serbian and Bosnian market.
+  My name is Urška and currently I work in Deichmann as a PR and social media manager. We are located in Ljubljana, Slovenia, however I also cover Croatian, Serbian and Bosnian market.
 hide_description: true
 selected_projects:
 - _projects/povodni-moz.md
@@ -39,7 +39,7 @@ featured: false
 <div class="tip" markdown="1">
 
 
-My name is [***Urška***](/resume/) and I work in [**_Deichmann_**](https://www.deichmann.com){:target="_blank"} as a [**_PR and social media manager_**](/resume/). 
+My name is [***Urška***](/resume/) and I work in [**_Deichmann_**](https://www.deichmann.com){:target="_blank"} as a [**_PR and social media manager_**](/resume/).  We are located in Ljubljana, Slovenia, however I also cover Croatian, Serbian and Bosnian market.
 
 ## [same to you :)]()
 
@@ -88,19 +88,9 @@ My name is [***Urška***](/resume/) and I work in [**_Deichmann_**](https://www.
 
 ---
 
-# Thanks and hope you find it useful
-
-### Da, ja volim jednog momka iz Srbije.
-
-![](/assets/img/on_i_njegova_urska.png)
+# I hope you find it useful
+### & remember...
 <br>
-On & njegova Urška
-{:.figure}
-
-
-<br>
-
----
 
 <!--author-->
 

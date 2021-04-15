@@ -3,14 +3,14 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Urška Tomašević"
-  label: "Digital marketing, PR & Social Media manager"
+  label: "Digital Marketing, PR & Social Media Manager"
   picture: "/assets/icons/njegovaurska.png"
   email: "njegovaurska@gmail.com"
   phone: "(+386) 40/***010"
   website: "https://njegovaurska.github.io/"
   summary: >
-    I help people to fall in love with brands.
-
+    Well, it's easy and simple - I help people to fall in love with brands!
+    
   location:
     address: ""
     postalCode: ""
@@ -232,7 +232,16 @@ interests:
     keywords:
       - "Social Media and Public Relations"
       - "Digital Marketing, PR & Social Media"
-      - "Content marketing"
+      - "Content Marketing"
+      - "PR"
+      - "Marketing"
+      - "Social Media"
+      - "Influencer Marketing"
+      - "Event Planning"
+      - "Digital Marketing"
+      - "Branding"
+      - "Fashion"
+      - "Sport"
 references:
   - name: "Milovan Tomašević, PhD"
     reference: >
