@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    **IMPOSSIBLE IS NOTHING BUT A WORD!**
+    **EVERYTHING YOU CAN IMAGINE IS REAL**
   # This photo will be used in the about section
   picture:
     path:            /assets/icons/njegovaurska.png

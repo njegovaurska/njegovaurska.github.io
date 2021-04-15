@@ -1,10 +1,10 @@
 ---
 layout: welcome
 cover: true
-title: Impossible is nothing but a word!
+title: Everything you can imagine is real.
 image: /assets/img/MilovanTomasevic-8.jpeg
 description: >
-  My name is Urška and I work on Deichmann as a PR, digital and social media expert in Ljubljana, Slovenia.
+  My name is Urška and currently I work in Deichmann as a PR and social media manager. We are located in Ljubljana, Slovenia, however I cover also Croatian, serbian and Bosnian market.
 hide_description: true
 selected_projects:
 - _projects/povodni-moz.md
@@ -39,13 +39,13 @@ featured: false
 <div class="tip" markdown="1">
 
 
-My name is [***Urška***](/resume/) and I work on [**_Deichmann_**](https://www.deichmann.com){:target="_blank"} as a [**_PR, digital and social media expert_**](/resume/). 
+My name is [***Urška***](/resume/) and I work in [**_Deichmann_**](https://www.deichmann.com){:target="_blank"} as a [**_PR and social media manager_**](/resume/). 
 
 ## [same to you :)]()
 
 >Don’t forget, this is my personal page and everything said and shared here are from a personal perspective and represent personal views only and not that of any Company I may be associated or have connections with.
 
->Oh and if you have any idea of what you would like to see on my blog, feel free share your thoughts with me. I am already curious to hear from you :)
+>Oh, and if you have any idea of what you would like to see on my blog, feel free to share your thoughts with me. I am already curious to hear from you :)
 
 
 </div>
