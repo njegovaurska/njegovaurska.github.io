@@ -21,7 +21,7 @@ sitemap: false
 __Spread the look campaign was launched in Stuttgart at the end of March, held on one of the biggest fashion and beauty events in Europe, so called Glow - The Beauty Convention.__
 
 
-![Full-width image](/assets/img/projects/spread_the_look_njegovaurska_1.jpg/800x100){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/assets/img/projects/spread_the_look_njegovaurska_1.jpg)
 
 *The biggest beauty convention in Europe - GLOW.*
 {:.figcaption}
