@@ -6,11 +6,11 @@ description: >
   Twice per year we launch a new collection and organize event where we present it to media, press, influencers and our customers.
 date: 1.3.2019
 image: 
-  path: /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpeg
+  path: /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpg
   srcset: 
-    1920w: /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpeg
-    960w:  /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpeg
-    480w:  /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpeg
+    1920w: /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpg
+    960w:  /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpg
+    480w:  /assets/img/projects/launching_a_new_collection_spring2019_naslovna.jpg
 links:
   - title: Link
     url: https://www.youtube.com/watch?v=Dn0eeCc6wkI
